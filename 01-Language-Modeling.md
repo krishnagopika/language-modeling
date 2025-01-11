@@ -278,7 +278,7 @@ Stanford classes:
 
 CS224N -> historical context - dont bother 
 CS324 -> in-depth reading - maybe
-CS336 -> build an LLM - Brilliant!
+CS336 -> build an LLM - Brilliant! -> https://stanford-cs336.github.io/spring2024/
 
 
 
